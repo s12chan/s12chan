@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s12chan&label=Profile%20views&color=0e75b6&style=flat" alt="s12chan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s12chan" alt="s12chan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s12chan&show_icons=true&locale=en" alt="s12chan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s12chan&" alt="s12chan" /></p>
-
