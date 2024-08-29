@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Linux and DevOps**
 
-- 💬 Ask me about **Core Java,Spring boot,AWS**
+
+- 💬 Ask me about **Core Java,Spring boot,AWS,Jenkins,Ansible,Nexus,Docker,Linux**
 
 - 📫 How to reach me **schandana.ch@gmail.com**
 
