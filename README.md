@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Core Java,Spring boot,AWS,Jenkins,Ansible,Nexus,Docker,Linux**
+- 💬 Ask me about **Java,Spring boot,AWS,Jenkins,Docker, Kubernetes**
 
 - 📫 How to reach me **schandana.ch@gmail.com**
 
